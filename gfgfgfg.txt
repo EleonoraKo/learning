@@ -1,6 +1,3 @@
 added changes
-<<<<<<< HEAD
 changes for gui
 to reverse changes
-=======
->>>>>>> parent of 263a431 (gui changes)
